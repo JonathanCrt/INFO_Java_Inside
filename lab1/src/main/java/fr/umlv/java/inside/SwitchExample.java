@@ -5,6 +5,7 @@ public class SwitchExample {
         return switch (s) {
             case "dog" -> 1;
             case "cat" -> 2;
+            case "wabbit" -> 3;
             default -> 4;
         };
     }
