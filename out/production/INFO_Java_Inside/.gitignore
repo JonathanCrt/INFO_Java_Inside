@@ -10,27 +10,6 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# IntelliJ
-.idea/
-.idea_modules/
-*.iml
-*.ipr
-*.iws
-
-# Eclipse
-.settings/
-tmp/
-.metadata
-.classpath
-.project
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.loadpath
-.factorypath
-
 # Package Files #
 *.jar
 *.war

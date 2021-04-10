@@ -1,0 +1,9 @@
+language: java
+jdk: openjdk15
+
+# install:
+#   - mettre une commmande si nécessaire
+
+script:
+  - cd lab1
+  - mvn package
